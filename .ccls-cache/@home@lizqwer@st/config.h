@@ -5,6 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
+//Source Code Pro:
 static char *font = "Source Code Pro:pixelsize=15:antialias=true:autohint=true";
 static int borderpx = 4;
 
